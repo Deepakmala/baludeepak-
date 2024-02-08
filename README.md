@@ -16,7 +16,7 @@ Features and usage:
 6. The application has a responsive design for a seamless user experience.
 
 
-To Start the development server and the see results:
+To start the development server and to see the results:
 
 1. npm start
 2. Open your browser and navigate to http://localhost:3000 to view the application.
