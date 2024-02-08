@@ -1,5 +1,9 @@
 React Shopping Cart
-This is a simple React application that allows users to browse products, add them to the shopping cart, and remove them from the cart. The design is based on the Shop Homepage template.
+
+
+
+This is a simple React application that allows users to browse products, add them to the shopping cart, and remove them from the cart.
+The design is based on the Shop Homepage template.
 
 
 Features
